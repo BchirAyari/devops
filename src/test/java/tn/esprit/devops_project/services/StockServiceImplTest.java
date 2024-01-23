@@ -7,7 +7,6 @@ import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import tn.esprit.devops_project.entities.Stock;
 import tn.esprit.devops_project.repositories.StockRepository;
-import tn.esprit.devops_project.services.StockServiceImpl;
 
 import java.util.Collections;
 import java.util.List;
