@@ -87,3 +87,6 @@ Jsrc/main/java/tn/esprit/devops_project/repositories/InvoiceRepository.java,8\e
 Ksrc/main/java/tn/esprit/devops_project/repositories/SupplierRepository.java,d\b\db48324d04d7ee6924c99bb7c91202e3d41950e9
 U
 %.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
